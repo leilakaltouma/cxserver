@@ -1,4 +1,3 @@
-
 import fs from "fs";
 import YAML from "js-yaml";
 import { createObjectCsvWriter } from "csv-writer";
